@@ -78,6 +78,9 @@ pickle
 
 ## EXAMPLE
 
+<img width="556" alt="EMO1" src="https://github.com/user-attachments/assets/164e9356-ae15-4dd7-bd00-db24b7419ad1">
+
+
 
 
    
